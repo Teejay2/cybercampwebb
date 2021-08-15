@@ -1,0 +1,47 @@
+body{
+    background-image:url(images/bg-mobile.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.navbar{
+    padding: 15px;
+    
+}
+.navbar  a{
+    float:left;
+    color:white;
+    text-decoration: none;
+}
+.banner{
+    display: flex;
+    margin-top:80px;
+} 
+.right-column text{
+    flex-basis: 50px;
+    width:100%;
+}
+    
+    
+}
+.first{
+    font-size: 12px;
+    text-transform: none;
+    text-align:top;
+    
+}
+.second{
+    text-transform: none;
+    font-size: 500;
+}
+ 
+.button{
+    padding: 15px;
+    margin-top: 30px;
+}
+
+
+
+
+    
+   

@@ -1,0 +1,12 @@
+h1,p{
+    color: darkblue;
+    font-family: Arial;
+    text-align: center;
+}
+form{
+    font-family:fantasy;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: darkgray;
+}
+
